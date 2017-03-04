@@ -1,12 +1,12 @@
-package org.launchcode.java.demos.java4python;
-
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+package org.launchcode.java.PrepExForClass2;
 
 /**
  * Created by LaunchCode
  */
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 
 public class GradebookHashMap {
@@ -50,3 +50,8 @@ public class GradebookHashMap {
     }
 }
 
+
+//system.out.printf("%s (%f)\n", student.getKey(), student.getValue();
+// or
+//for (String student : students.keySet()) {
+//system.out.printf("%s (%f)\n", student, students.get(student));
